@@ -1,0 +1,10 @@
+# Flutter/Dart generated files
+**/.dart_tool/
+**/build/
+**/.idea/
+**/.gradle/
+**/ephemeral/
+**/Pods/
+**/local.properties
+**/*.iml
+**/.DS_Store
